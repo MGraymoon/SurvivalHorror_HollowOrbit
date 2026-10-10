@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"animationId":6,"description":"[Sword] A light and easy-to-wield short-bladed sword.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Handgun","note":"<AmmoClipCapacity:30>\n<AmmoReserveCapacity:120>\n<AmmoItem:7>","params":[0,0,20,0,15,0,35,130],"price":300,"wtypeId":2},
+{"id":2,"animationId":6,"description":"[Sword] A light and easy-to-wield short-bladed sword.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Revolver","note":"","params":[0,0,40,0,0,0,0,0],"price":300,"wtypeId":2},
+{"id":3,"animationId":6,"description":"[Sword] A light and easy-to-wield short-bladed sword.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Shotgun","note":"","params":[0,0,60,0,0,0,0,0],"price":300,"wtypeId":2}
+]

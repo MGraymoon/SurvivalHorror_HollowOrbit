@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"Nora","classId":1,"equips":[1,0,0,1,0],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nora","nickname":"","note":"<crouchIdle:NoraCrouch,0>\n<crouchMove:NoraCrouch,1>","profile":""}
+]
